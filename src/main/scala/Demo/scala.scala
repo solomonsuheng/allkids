@@ -4,6 +4,7 @@ package Demo
  * Created by Suheng on 8/5/15.
  */
 class scala {
+  def message = "HelloWorld"
 }
 
 object scala {
