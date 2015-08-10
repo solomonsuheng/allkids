@@ -10,5 +10,6 @@ class scala {
 object scala {
   def main(args: Array[String]) {
     println("sd")
+    (1 to 5).foreach(println)
   }
 }
