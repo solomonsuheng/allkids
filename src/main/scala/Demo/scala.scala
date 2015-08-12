@@ -9,7 +9,7 @@ class scala {
 
 object scala {
   def main(args: Array[String]) {
-    println("sd")
+    println("saaad")
     (1 to 5).foreach(println)
   }
 }
